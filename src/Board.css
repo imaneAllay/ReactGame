@@ -1,0 +1,15 @@
+.App{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  margin: 100px;
+}
+
+h1{
+  text-align: center;
+}
+
+
+.status{
+  margin: 20px;
+}
